@@ -1,8 +1,8 @@
 {
-  "name": "whateverdevs.extendject",
-  "version": "9.1.0",
-  "displayName": "Extendject",
-  "description": "Version of Extendject to be used as a package.",
+  "name": "whateverdevs.extenject",
+  "version": "9.1.1",
+  "displayName": "Extenject",
+  "description": "Version of Extenject to be used as a package.",
   "unity": "2019.1",
   "author": {
     "name": "Whatever Devs",
